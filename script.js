@@ -1,4 +1,4 @@
-const apiKey = "fbffa548dda1c2dcdceafa8bb5eaf624";
+const apiKey = "";
 const apiCountry= "https://flagsapi.com/BE/shiny/64.png";
 
 const cityInput = document.querySelector("#city-input");
